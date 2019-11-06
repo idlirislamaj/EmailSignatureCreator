@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<directory>
+<fieldset>
+<field id="displayName">Display name</field>
+<field id="firstName">First name</field>
+<field id="lastName">Last name</field>
+<field id="preferredName">Preferred name</field>
+<field id="gender">Gender</field>
+<field id="jobTitle">Job title</field>
+<field id="workPhone">Work Phone</field>
+<field id="mobilePhone">Mobile Phone</field>
+<field id="workEmail">Work Email</field>
+<field id="department">Department</field>
+<field id="location">Location</field>
+<field id="division">Division</field>
+<field id="skypeUsername">Skype Username</field>
+<field id="linkedIn">LinkedIn URL</field>
+<field id="twitterFeed">Twitter Feed</field>
+<field id="workPhoneExtension">Work Ext.</field>
+<field id="photoUploaded">Employee photo</field>
+<field id="photoUrl">Photo URL</field>
+<field id="canUploadPhoto">Can Upload Photo</field>
+</fieldset>
+<employees>
+<employee id="1">
+<field id="displayName">Tim Black</field>
+<field id="firstName">Tim</field>
+<field id="lastName">Black</field>
+<field id="preferredName"/>
+<field id="gender">Male</field>
+<field id="jobTitle">CTO</field>
+<field id="workPhone">+49 </field>
+<field id="mobilePhone">0049</field>
+<field id="workEmail">tim@gmail.com</field>
+<field id="department">Administration</field>
+<field id="location">USA</field>
+<field id="division">Business</field>
+<field id="skypeUsername"/>
+<field id="linkedIn"/>
+<field id="twitterFeed"/>
+<field id="workPhoneExtension"/>
+<field id="photoUploaded">true</field>
+<field id="photoUrl">
+</field>
+<field id="canUploadPhoto">yes</field>
+</employee>
+<employee id="1">
+<field id="displayName">John Smith</field>
+<field id="firstName">John</field>
+<field id="lastName">Smith</field>
+<field id="preferredName"/>
+<field id="gender">Male</field>
+<field id="jobTitle">CEO</field>
+<field id="workPhone">+49</field>
+<field id="mobilePhone">0049</field>
+<field id="workEmail">ceo@gmail.com</field>
+<field id="department">Administration</field>
+<field id="location">Germany</field>
+<field id="division">Business</field>
+<field id="skypeUsername"/>
+<field id="linkedIn"/>
+<field id="twitterFeed"/>
+<field id="workPhoneExtension"/>
+<field id="photoUploaded">true</field>
+<field id="photoUrl">
+</field>
+<field id="canUploadPhoto">yes</field>
+</employee>
+
+</employees>
+</directory>

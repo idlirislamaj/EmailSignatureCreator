@@ -1,0 +1,287 @@
+@import url('demo.css');
+@import url('common.css');
+@import url(https://fonts.googleapis.com/css?family=Raleway);
+
+#show_employee {
+  border-radius: 10px;
+  font-family: raleway;
+  padding: 0px;
+  margin-top: 10px;
+  margin: 0px auto;
+  border-style: none;
+  background: white;
+  height: 510px;
+  width: 960px;
+  padding: 10px;
+  box-shadow: 5px 10px 8px #888888;
+}
+
+.col-xs-6 {
+  border-radius: 10px;
+}
+
+
+#choose_text {
+  font-size: 13px;
+  padding-top: 2px;
+}
+
+.btn {
+  width: auto;
+  display: inline-block;
+  font-size: 14px;
+  font-family: raleway;
+}
+
+#loader {
+  position: fixed;
+  left: 48.5%;
+  top: 40%;
+  z-index: 1;
+  margin: auto;
+  border: 16px solid #3498db;
+  border-radius: 50%;
+  border-top: 16px solid #f3f3f3;
+  width: 60px;
+  height: 60px;
+  -webkit-animation: spin 1s linear infinite;
+  animation: spin 2s linear infinite;
+  display: none;
+}
+
+@-webkit-keyframes spin {
+  0% {
+    -webkit-transform: rotate(0deg);
+  }
+
+  100% {
+    -webkit-transform: rotate(360deg);
+  }
+}
+
+@keyframes spin {
+  0% {
+    transform: rotate(0deg);
+  }
+
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* Add animation to "page content" */
+.animate-left {
+  position: relative;
+  -webkit-animation-name: animateleft;
+  -webkit-animation-duration: 1s;
+  animation-name: animateleft;
+  animation-duration: 1s;
+}
+
+@-webkit-keyframes animateleft {
+  from {
+    left: 100px;
+    opacity: 0
+  }
+
+  to {
+    left: 0px;
+    opacity: 1
+  }
+}
+
+@keyframes animateleft {
+  from {
+    left: 100px;
+    opacity: 0
+  }
+
+  to {
+    left: 0;
+    opacity: 1
+  }
+}
+
+/* Add animation to "page content" */
+.animate-right {
+  position: relative;
+  -webkit-animation-name: animateright;
+  -webkit-animation-duration: 1s;
+  animation-name: animateright;
+  animation-duration: 1s;
+}
+
+@-webkit-keyframes animateright {
+  from {
+    right: 100px;
+    opacity: 0
+  }
+
+  to {
+    right: 0px;
+    opacity: 1
+  }
+}
+
+@keyframes animateright {
+  from {
+    right: 100px;
+    opacity: 0
+  }
+
+  to {
+    right: 0;
+    opacity: 1
+  }
+}
+
+button.btn.dropdown-toggle.btn-default {
+  margin-top: 0;
+}
+
+header.clearfix {
+  height: 10px;
+}
+
+img.right {
+  margin-top: 12px;
+}
+
+button.btn.dropdown-toggle.btn-default {
+  position: absolute;
+}
+
+
+input.btn {
+  width: 120px;
+}
+
+
+
+.container>header {
+  padding: 40px 10px 10px;
+  margin-bottom: 20px;
+}
+
+#choose_text {
+  float: right;
+  margin-right: 595px;
+  margin-top: 3px;
+}
+
+/* style for different screen sizes */
+@media screen and (max-width : 991px) {
+  #buttons {
+    margin-top: 0;
+    float: right;
+    width: 550px;
+    margin-right: -20px;
+  }
+
+  #mainDiv {
+    background-color: white;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+  }
+
+  #tData {
+    width: 100%;
+  }
+
+}
+
+@media screen and (max-width : 886px) {
+  .container>header {
+    padding: 40px 10px 50px;
+  }
+}
+
+@media screen and (max-width : 612px) {
+  body {
+    width: 612px;
+  }
+}
+
+.social_logos {
+  padding-top: 10px;
+}
+
+#profile_img {
+  display: none;
+}
+
+.btn-group,
+.btn-group-vertical {
+  display: block;
+}
+
+
+
+
+
+
+
+
+ul.dropdown-menu {
+  height: auto;
+  width: auto;
+}
+
+ul.dropdown-menu li {
+  height: auto;
+  width: auto;
+
+}
+
+ul.dropdown-menu li label {
+  display: block;
+  padding-left: 40px;
+}
+
+body {
+  background: aliceblue;
+}
+
+
+.standard_margin {
+  position: absolute;
+  margin-top: 82px;
+}
+
+.compact_margin {
+  position: absolute;
+  margin-top: 275px;
+}
+
+#buttons {
+  margin-top: 435px;
+  margin-left: 675px;
+}
+
+label {
+  margin-bottom: 0;
+  font-weight: 100;
+}
+
+.chkbx {
+  vertical-align: initial;
+}
+
+#employee_dropdown {
+  border: 2px solid rgb(150, 211, 241);
+  border-radius: 5px;
+}
+
+.btn-default {
+  border-color: transparent;
+}
+
+
+label{
+  font-size: 13px;
+}
+
+.checkboxes_label:hover {
+  background-color: #dbf1fb;
+  cursor: pointer;
+}

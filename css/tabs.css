@@ -1,0 +1,38 @@
+ul.tabs {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+ul.tabs li {
+    background: #DBF1FB;
+    color: #222;
+    display: inline-block;
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+ul.tabs li.current {
+    background: #039BE5;
+    color: white;
+}
+
+.tab-content {
+    display: none;
+    background: none;
+    /* padding: 15px; */
+}
+
+.tab-content.current {
+    display: inherit;
+}
+
+#tab-2 {
+    margin-top: 30px;
+    margin-left: 20px;
+}
+
+#tab-1 {
+    margin-left: 20px;
+    margin-top: 30px;
+}
