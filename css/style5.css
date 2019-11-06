@@ -143,10 +143,6 @@ header.clearfix {
   height: 10px;
 }
 
-img.right {
-  margin-top: 12px;
-}
-
 button.btn.dropdown-toggle.btn-default {
   position: absolute;
 }
