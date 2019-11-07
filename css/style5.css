@@ -156,6 +156,7 @@ input.btn {
 
 .container>header {
   padding: 40px 10px 10px;
+  margin-bottom: 10px;
 }
 
 #choose_text {
