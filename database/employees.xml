@@ -64,7 +64,6 @@
 <field id="photoUrl">resources/images/SampleImage.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
-  </employee>
 <employee id="3">
 <field id="displayName">Charles Bukovski</field>
 <field id="firstName">Charles</field>
@@ -86,7 +85,6 @@
 <field id="photoUrl">resources/images/SampleImage.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
-  </employee>
 <employee id="4">
 <field id="displayName">Lisa Power</field>
 <field id="firstName">Lisa</field>
