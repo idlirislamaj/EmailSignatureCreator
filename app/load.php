@@ -20,7 +20,7 @@
             <div class="row">
                 <div class="col-xs-6" style="background: #eaeaea; font-size: 13px;">
                     <table id="tData" class="table table-striped table-responsive" style="color: #00263D; margin-bottom: 0px;height: 435px;">
-                        <tr style="background-color:#039BE5; color:white;">
+                        <tr style="background-color:#01253F; color:white;">
                             <td style="width: 150px">Display Name</td>
                             <td>
                                 <?php echo $displayName ?>
@@ -95,7 +95,7 @@
                     <div id="tab-1" class="tab-content current">
                         <div id="signature" class="animate-right">
                             <div id="signature_table">
-                                <table style=" color: #00263D; font-family: Tahoma, Geneva, sans-serif;">
+                                <table style=" color: #01253F; font-family: Tahoma, Geneva, sans-serif;">
                                     <tbody>
                                         <tr style="text-align: center;">
                                             <td style="display: none" id="profile_img">
@@ -113,7 +113,7 @@
                                                         </tr>
                                                         <tr>
                                                             <td style="padding: 0;">
-                                                                <div id="jobTitleSig" style="color : #00263D;  font-size: 11px; font-family: Tahoma, Geneva, sans-serif;">
+                                                                <div id="jobTitleSig" style="color : #01253F;  font-size: 11px; font-family: Tahoma, Geneva, sans-serif;">
                                                                     <?php echo $jobTitle?>
                                                                 </div>
                                                             </td>
@@ -129,14 +129,14 @@
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td style="padding: 0; font-size: 11px; color : #00263D; font-family: Tahoma, Geneva, sans-serif;">
+                                                            <td style="padding: 0; font-size: 11px; color : #01253F; font-family: Tahoma, Geneva, sans-serif;">
                                                                     
                                                                 <span class="work_text">P: </span>  <span id="workPhoneSig"> <?php echo $workPhone ?></span>
 
                                                             </td>
                                                         </tr>
                                                         <tr>
-                                                            <td  style="padding: 0;font-size: 11px; color : #00263D; font-family: Tahoma, Geneva, sans-serif;">
+                                                            <td  style="padding: 0;font-size: 11px; color : #01253F; font-family: Tahoma, Geneva, sans-serif;">
                         
                                                                     
                                                                 <span class="m_text">M: </span> <span id="mobilePhoneSig"> <?php echo $mobilePhone ?></span>
@@ -168,8 +168,8 @@
                             </tr>
                             <tr>
                                 <td class="social_logos" style="padding-left: 40px;">
-                                    <a id="linkedin" href="#"> <img style="width:25px; height:25px; " src="resources/images/logo/linkedin.png" /></a>&nbsp;
-                                    <a id="twitter" href="#"><img style="width:25px; height:25px;" src="resources/images/logo/twitter.png" /></a>&nbsp;
+                                    <a id="linkedin" href="#"> <img style="width:25px; height:25px; " src="resources/images/logo/Linkedin.png" /></a>&nbsp;
+                                    <a id="twitter" href="#"><img style="width:25px; height:25px;" src="resources/images/logo/Twitter.png" /></a>&nbsp;
                                     <a href="#"><img style="width:25px; height:25px;" src="resources/images/logo/facebook.png" /></a>&nbsp;
                                     <a href="#"><img style="width:25px; height:25px" src="resources/images/logo/You-Tube.png" /></a>
                                 </td>
