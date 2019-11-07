@@ -206,7 +206,7 @@
                             <tr>
                                 <td style="padding: 0;">
                                     <div id="" style="color : #00263D;  font-size: 10px; font-family: Tahoma, Geneva, sans-serif;">
-                                        <span style="font-weight: bold;">Sample </span> 
+                                        <span style="font-weight: bold;">Company name </span> 
                                         <span class="work_text">| P: </span><span class="workPhoneSig"> <?php echo $workPhone ?> </span>
                                         <span class="m_text">| M: </span><span class="mobilePhoneSig"> <?php echo $mobilePhone ?></span>
                                     </div>
