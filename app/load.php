@@ -158,7 +158,7 @@
                         <table class="logo_id" id="social_table" style=" margin_left: 0; margin-top:10px; font-family: Tahoma, Geneva, sans-serif;">
                             <tr>
                                 <td>
-                                    <img class="logo_id" width="136px" height="32px" src="resources/images/logo/logo.png" />
+                                    <img class="logo_id" src="resources/images/logo/logo.png" />
                                 </td>
                             </tr>
                             <tr>
@@ -170,8 +170,8 @@
                                 <td class="social_logos" style="padding-left: 40px;">
                                     <a id="linkedin" href="#"> <img style="width:25px; height:25px; " src="resources/images/logo/linkedin.png" /></a>&nbsp;
                                     <a id="twitter" href="#"><img style="width:25px; height:25px;" src="resources/images/logo/twitter.png" /></a>&nbsp;
-                                    <a href="#"><img style="width:25px; height:25px;" src="resources/images/logo/Facebook.png" /></a>&nbsp;
-                                    <a href="#"><img style="width:25px; height:25px" src="resources/images/logo/Youtube.png" /></a>
+                                    <a href="#"><img style="width:25px; height:25px;" src="resources/images/logo/facebook.png" /></a>&nbsp;
+                                    <a href="#"><img style="width:25px; height:25px" src="resources/images/logo/You-Tube.png" /></a>
                                 </td>
                             </tr>
                         </table>
