@@ -40,7 +40,7 @@
 <field id="twitterFeed"/>
 <field id="workPhoneExtension"/>
 <field id="photoUploaded">true</field>
-<field id="photoUrl">resources/images/JoannaJones.jpg</field>
+<field id="photoUrl">resources/images/Joanna Jones.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
 <employee id="1">
@@ -61,7 +61,7 @@
 <field id="twitterFeed"/>
 <field id="workPhoneExtension"/>
 <field id="photoUploaded">true</field>
-<field id="photoUrl">resources/images/JohnSmith.jpg</field>
+<field id="photoUrl">resources/images/John Smith.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
 
