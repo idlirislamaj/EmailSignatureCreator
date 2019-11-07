@@ -23,15 +23,15 @@
 </fieldset>
 <employees>
 <employee id="1">
-<field id="displayName">Joanna Jones</field>
-<field id="firstName">Joanna</field>
-<field id="lastName">Jones</field>
+<field id="displayName">Thomas jameson</field>
+<field id="firstName">Thomas</field>
+<field id="lastName">Jameson</field>
 <field id="preferredName"/>
-<field id="gender">Female</field>
+<field id="gender">Male</field>
 <field id="jobTitle">CTO</field>
 <field id="workPhone">+49 </field>
 <field id="mobilePhone">0049</field>
-<field id="workEmail">tim@gmail.com</field>
+<field id="workEmail">thomas@sample.com</field>
 <field id="department">Administration</field>
 <field id="location">USA</field>
 <field id="division">Business</field>
@@ -40,7 +40,7 @@
 <field id="twitterFeed"/>
 <field id="workPhoneExtension"/>
 <field id="photoUploaded">true</field>
-<field id="photoUrl">resources/images/Joanna Jones.jpg</field>
+<field id="photoUrl">resources/images/SampleImage.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
 <employee id="1">
@@ -61,7 +61,7 @@
 <field id="twitterFeed"/>
 <field id="workPhoneExtension"/>
 <field id="photoUploaded">true</field>
-<field id="photoUrl">resources/images/John Smith.jpg</field>
+<field id="photoUrl">resources/images/SampleImage.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
 
