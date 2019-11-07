@@ -43,7 +43,7 @@
 <field id="photoUrl">resources/images/SampleImage.jpg</field>
 <field id="canUploadPhoto">yes</field>
 </employee>
-<employee id="1">
+<employee id="2">
 <field id="displayName">John Smith</field>
 <field id="firstName">John</field>
 <field id="lastName">Smith</field>
@@ -54,6 +54,50 @@
 <field id="mobilePhone">0049121212121</field>
 <field id="workEmail">hr@samplecompany.com</field>
 <field id="department">Administration</field>
+<field id="location">Germany</field>
+<field id="division">Business</field>
+<field id="skypeUsername"/>
+<field id="linkedIn"/>
+<field id="twitterFeed"/>
+<field id="workPhoneExtension"/>
+<field id="photoUploaded">true</field>
+<field id="photoUrl">resources/images/SampleImage.jpg</field>
+<field id="canUploadPhoto">yes</field>
+</employee>
+  </employee>
+<employee id="3">
+<field id="displayName">Charles Bukovski</field>
+<field id="firstName">Charles</field>
+<field id="lastName">Bukovski</field>
+<field id="preferredName"/>
+<field id="gender">Male</field>
+<field id="jobTitle">System Administrator</field>
+<field id="workPhone">+491221212122</field>
+<field id="mobilePhone">0049121212121</field>
+<field id="workEmail">hr@samplecompany.com</field>
+<field id="department">Administration</field>
+<field id="location">Germany</field>
+<field id="division">Business</field>
+<field id="skypeUsername"/>
+<field id="linkedIn"/>
+<field id="twitterFeed"/>
+<field id="workPhoneExtension"/>
+<field id="photoUploaded">true</field>
+<field id="photoUrl">resources/images/SampleImage.jpg</field>
+<field id="canUploadPhoto">yes</field>
+</employee>
+  </employee>
+<employee id="4">
+<field id="displayName">Lisa Power</field>
+<field id="firstName">Lisa</field>
+<field id="lastName">Power</field>
+<field id="preferredName"/>
+<field id="gender">Female</field>
+<field id="jobTitle">Software Developer</field>
+<field id="workPhone">+491221212122</field>
+<field id="mobilePhone">0049121212121</field>
+<field id="workEmail">hr@samplecompany.com</field>
+<field id="department">Development</field>
 <field id="location">Germany</field>
 <field id="division">Business</field>
 <field id="skypeUsername"/>
